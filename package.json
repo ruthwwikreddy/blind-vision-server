@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "bonjour": "^3.5.0",
+    "bonjour": "^3.3.0",
     "express": "^5.1.0",
     "express-fileupload": "^1.5.2",
-    "fileupload": "^1.0.0",
+    "fileupload": "^0.2.1",
     "openai": "^5.10.2"
   },
   "name": "server_node",
